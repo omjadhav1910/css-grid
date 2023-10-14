@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    border: 1px solid black;
+    column-gap: 50px;
+    row-gap: 10px;
+     
+    height: 800px;
+    width: 1600px;
+    background-color: rgb(189, 65, 65);
+    margin-top: 40px;
+    margin-left: 55px;
+   
+     
+  }
+  .grid-item {
+     
+    padding: 20px;
+    font-size: 30px;
+    
+     
+   
+     
+  }
+  .grid-item1{
+    width: 10px;
+  }
+  .item1  {
+    width: 189px;
+    margin-left: 100px;
+    
+
+  }
+  .item1 :hover{
+    width: 199px;
+
+  }
+  .item2 {
+    width: 200px;
+    margin-left: 100px;
+
+
+  }
+  .item2 :hover{
+    width: 210px;
+  }
+  .item3  {
+    width: 183px;
+    margin-left: 100px;
+     
+
+  }
+  .item3 :hover{
+    width: 189px;
+  }
+  .item4  {
+    width: 180px;
+    margin-left: 105px;
+     
+
+  }
+  .item4 :hover{
+    width: 189px;
+
+  }
+  .item5  {
+    width: 170px;
+    margin-left: 119px;
+
+  }
+  .item5 :hover{
+    width: 189px;
+
+  }
+  .item6  {
+    width: 189px;
+    margin-left: 97px;
+
+  }
+  .item6 :hover{
+    width: 192px;
+  }
+  .item7{
+    width: 168px;
+    margin-left: 111px;
+  }
+  .item7 :hover{
+    width: 189px;
+
+  }
+  .item8{
+    width: 180px;
+    margin-left: 113px;
+  }
+  .item8 :hover{
+    width: 189px;
+
+  }
+
+  .item9 {
+    width: 189px;
+    margin-left: 98px;
+     
+    
+     
+  }  
+  .item9 :hover{
+    width: 189px;
+  }
